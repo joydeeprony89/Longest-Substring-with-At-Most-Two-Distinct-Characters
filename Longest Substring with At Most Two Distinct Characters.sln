@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longest Substring with At Most Two Distinct Characters", "Longest Substring with At Most Two Distinct Characters\Longest Substring with At Most Two Distinct Characters.csproj", "{7DC2CF2C-C9ED-4660-9EF7-3714D1A4052D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DC2CF2C-C9ED-4660-9EF7-3714D1A4052D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DC2CF2C-C9ED-4660-9EF7-3714D1A4052D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DC2CF2C-C9ED-4660-9EF7-3714D1A4052D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DC2CF2C-C9ED-4660-9EF7-3714D1A4052D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE795993-1F20-43FB-B94B-30D8E7F0CC4E}
+	EndGlobalSection
+EndGlobal
